@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H2O.DataAccess.Core", "H2O.DataAccess.Core\H2O.DataAccess.Core.csproj", "{184EFF61-B51C-4290-AE60-836493F79339}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{EBF5E7BB-4742-4631-9E48-B9E69C768530}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H2O.DataAccess.Core.Test", "H2O.DataAccess.Core.Test\H2O.DataAccess.Core.Test.csproj", "{08C3D2CE-4EFE-4249-93AB-4D64019B5C9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{184EFF61-B51C-4290-AE60-836493F79339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{184EFF61-B51C-4290-AE60-836493F79339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{184EFF61-B51C-4290-AE60-836493F79339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{184EFF61-B51C-4290-AE60-836493F79339}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08C3D2CE-4EFE-4249-93AB-4D64019B5C9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08C3D2CE-4EFE-4249-93AB-4D64019B5C9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08C3D2CE-4EFE-4249-93AB-4D64019B5C9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08C3D2CE-4EFE-4249-93AB-4D64019B5C9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{184EFF61-B51C-4290-AE60-836493F79339} = {EBF5E7BB-4742-4631-9E48-B9E69C768530}
+		{08C3D2CE-4EFE-4249-93AB-4D64019B5C9A} = {EBF5E7BB-4742-4631-9E48-B9E69C768530}
+	EndGlobalSection
+EndGlobal

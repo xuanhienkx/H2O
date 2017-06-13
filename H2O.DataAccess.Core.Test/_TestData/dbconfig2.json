@@ -1,0 +1,11 @@
+﻿{
+  "DataAccess": {
+    "ConnectionString": {
+      "Host": "testhost",
+      "Port": "1433",
+      "DbName": "testdb",
+      "User": "sa",
+      "Password": "vics"
+    }
+  }
+}

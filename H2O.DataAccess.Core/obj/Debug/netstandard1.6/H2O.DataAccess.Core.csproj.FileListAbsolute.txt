@@ -1,0 +1,7 @@
+D:\Projects\MyProject\VII\H2O\H2O.DataAccess.Core\bin\Debug\netstandard1.6\H2O.DataAccess.Core.deps.json
+D:\Projects\MyProject\VII\H2O\H2O.DataAccess.Core\obj\Debug\netstandard1.6\H2O.DataAccess.Core.csprojResolveAssemblyReference.cache
+D:\Projects\MyProject\VII\H2O\H2O.DataAccess.Core\obj\Debug\netstandard1.6\H2O.DataAccess.Core.AssemblyInfo.cs
+D:\Projects\MyProject\VII\H2O\H2O.DataAccess.Core\bin\Debug\netstandard1.6\H2O.DataAccess.Core.dll
+D:\Projects\MyProject\VII\H2O\H2O.DataAccess.Core\bin\Debug\netstandard1.6\H2O.DataAccess.Core.pdb
+D:\Projects\MyProject\VII\H2O\H2O.DataAccess.Core\obj\Debug\netstandard1.6\H2O.DataAccess.Core.dll
+D:\Projects\MyProject\VII\H2O\H2O.DataAccess.Core\obj\Debug\netstandard1.6\H2O.DataAccess.Core.pdb
